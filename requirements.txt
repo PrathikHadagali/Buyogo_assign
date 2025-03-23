@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+fastapi
+langchain
+langchain_groq
+langchain_community
+uvicorn
+faiss-cpu
+document
+langchain-ollama
+dotenv
+pydantic
+langchain-huggingface
+sentence_transformers
+langchain_google_genai

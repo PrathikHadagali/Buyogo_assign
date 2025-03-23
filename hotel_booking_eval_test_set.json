@@ -1,0 +1,22 @@
+[
+  {
+    "query": "Which month had the highest number of arrivals?",
+    "expected_answer": "August"
+  },
+  {
+    "query": "What is the most common meal type?",
+    "expected_answer": "BB"
+  },
+  {
+    "query": "Which market segment had the most bookings?",
+    "expected_answer": "Online TA"
+  },
+  {
+    "query": "Which room type is most commonly reserved?",
+    "expected_answer": "A"
+  },
+  {
+    "query": "What is the most common customer type?",
+    "expected_answer": "Transient"
+  }
+]
